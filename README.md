@@ -1,4 +1,4 @@
-# Used Leaflet to Create Visualizations
+# Visualizations from JavaScript Leaflet
 
 ## Basic Map (Leaflet-Step-1)
 
